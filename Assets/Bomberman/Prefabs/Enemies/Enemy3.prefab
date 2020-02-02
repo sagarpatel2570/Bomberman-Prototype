@@ -166,7 +166,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   obstacleLayermask:
     serializedVersion: 2
-    m_Bits: 8192
+    m_Bits: 0
   offset: 0.5
   isPathInterupted: 0
   hasReachedDestination: 1
